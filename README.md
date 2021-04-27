@@ -1,6 +1,6 @@
 ### Hi there :smile:
 
-- :office: I have 15 years web design & application development experience, with specialisms in: 
+- :office: I have 13 years web design & application development experience, with specialisms in: 
   - WordPress websites
   - WooCommerce e-commerce websites
   - MERN stack applications
